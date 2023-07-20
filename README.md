@@ -12,5 +12,5 @@
 8. Ketik ```http://127.0.0.1:8000/``` atau dengan custom port ```http://127.0.0.1:8081/``` di browser
 
    <ins>Note:</ins>
-- Untuk testing dan instal Django di Virtual Environment cek di https://github.com/abimanyugithub/Install-Django-With-Virtual-Environment
-- Untuk koneksi Django dengan MySQL https://github.com/abimanyugithub/Connect-MySQL-To-Django
+- Untuk testing dan instal Django di Virtual Environment cek di https://github.com/abimanyugithub/Install-Django-with-Virtual-Environment
+- Untuk koneksi Django dengan MySQL https://github.com/abimanyugithub/Connect-MySQL-to-Django
